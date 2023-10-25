@@ -22,6 +22,7 @@ namespace swap
             Console.WriteLine("after swapping:");
             Console.WriteLine("first number:"+num1);
             Console.WriteLine("secondnumber:" +num2);
+            //swaping
 
          
 }
